@@ -1,0 +1,15 @@
+C:\Users\я\Desktop\new_folder\задачка\bin\Debug\net6.0\задачка.exe
+C:\Users\я\Desktop\new_folder\задачка\bin\Debug\net6.0\задачка.deps.json
+C:\Users\я\Desktop\new_folder\задачка\bin\Debug\net6.0\задачка.runtimeconfig.json
+C:\Users\я\Desktop\new_folder\задачка\bin\Debug\net6.0\задачка.dll
+C:\Users\я\Desktop\new_folder\задачка\bin\Debug\net6.0\задачка.pdb
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\задачка.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\задачка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\задачка.AssemblyInfoInputs.cache
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\задачка.AssemblyInfo.cs
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\задачка.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\задачка.dll
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\refint\задачка.dll
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\задачка.pdb
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\задачка.genruntimeconfig.cache
+C:\Users\я\Desktop\new_folder\задачка\obj\Debug\net6.0\ref\задачка.dll
