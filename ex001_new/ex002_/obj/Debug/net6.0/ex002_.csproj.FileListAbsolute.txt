@@ -1,0 +1,15 @@
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\bin\Debug\net6.0\ex002_.exe
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\bin\Debug\net6.0\ex002_.deps.json
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\bin\Debug\net6.0\ex002_.runtimeconfig.json
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\bin\Debug\net6.0\ex002_.dll
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\bin\Debug\net6.0\ex002_.pdb
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\ex002_.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\ex002_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\ex002_.AssemblyInfoInputs.cache
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\ex002_.AssemblyInfo.cs
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\ex002_.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\ex002_.dll
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\refint\ex002_.dll
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\ex002_.pdb
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\ex002_.genruntimeconfig.cache
+C:\Users\я\Desktop\new_folder\ex001_new\ex002_\obj\Debug\net6.0\ref\ex002_.dll
